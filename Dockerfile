@@ -12,7 +12,7 @@ COPY --from=frontend /frontend/build src/main/resources/static
 RUN mvn clean verify
 
 FROM openjdk:14-jdk-alpine
-COPY --from=backend /backend/target/backend-0.0.1-SNAPSHOT.jar ./app.jar
+COPY --from=backend /backend/target/demo-0.0.1-SNAPSHOT.jar ./app.jar
 EXPOSE 8080
 RUN adduser -D user
 USER user

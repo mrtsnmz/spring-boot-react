@@ -1,0 +1,23 @@
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('b2384c34-7716-4108-94c9-009ded37f29f', 'Mert', 'Sönmez', '(999) 999-9999', 'Ankara', 'Yenimahalle', '11. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('e67bf1a9-8b82-4699-902b-cdd9ce12b8fc', 'Onur', 'Gökçe', '(999) 999-9999', 'Ankara', 'Yenimahalle', '12. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('444b9930-577f-4208-a589-b5fb6d0796f5', 'Ahmet', 'Öztürk', '(999) 999-9999', 'Ankara', 'Yenimahalle', '11. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('482055c1-8601-4d59-a4fb-5c93b9f592c3', 'Fırat', 'Göktürk', '(999) 999-9999', 'Ankara', 'Yenimahalle', '12. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('a2356334-5c86-4305-8cb9-0818636c4d85', 'Hasan', 'Şen', '(999) 999-9999', 'Ankara', 'Yenimahalle', '12. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('2abb5edc-5dae-47e0-b258-b1ff8a2476fb', 'Mert', 'Sönmez', '(999) 999-9999', 'Ankara', 'Yenimahalle', '11. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('73caadd2-0b83-4552-8112-c52677d433be', 'Onur', 'Gökçe', '(999) 999-9999', 'Ankara', 'Yenimahalle', '12. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('1a89a793-6611-4d45-a2a9-a7fc9b7fd002', 'Ahmet', 'Öztürk', '(999) 999-9999', 'Ankara', 'Yenimahalle', '11. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('503d4fcf-f5d3-4629-96dd-0b83749c2b3a', 'Fırat', 'Göktürk', '(999) 999-9999', 'Ankara', 'Yenimahalle', '12. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('5a46236c-3f2b-48ed-847e-6658c3af1896', 'Hasan', 'Şen', '(999) 999-9999', 'Ankara', 'Yenimahalle', '12. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('8a9e1cae-41e1-4f4c-b6c6-a3518b76f56b', 'Mert', 'Sönmez', '(999) 999-9999', 'Ankara', 'Yenimahalle', '11. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('38666507-a45c-4e69-a8d7-19114d66599f', 'Onur', 'Gökçe', '(999) 999-9999', 'Ankara', 'Yenimahalle', '12. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('e5e8374d-850f-4b18-963a-ff462d5afee8', 'Ahmet', 'Öztürk', '(999) 999-9999', 'Ankara', 'Yenimahalle', '11. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('1a7e3d24-03f4-4bba-9599-d12a6f575967', 'Fırat', 'Göktürk', '(999) 999-9999', 'Ankara', 'Yenimahalle', '12. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('0702b8b4-5861-45a1-84f1-9244ffe7eb92', 'Hasan', 'Şen', '(999) 999-9999', 'Ankara', 'Yenimahalle', '12. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('8c886779-ead0-488c-ab04-a248792853db', 'Mert', 'Sönmez', '(999) 999-9999', 'Ankara', 'Yenimahalle', '11. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('7a047b95-d325-4ea4-a43f-154337d5ea00', 'Onur', 'Gökçe', '(999) 999-9999', 'Ankara', 'Yenimahalle', '12. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('69fc4f3e-7eec-4a5d-b49c-3e44f4168ff9', 'Ahmet', 'Öztürk', '(999) 999-9999', 'Ankara', 'Yenimahalle', '11. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('8a996496-3f94-4579-921e-bbc90d828445', 'Fırat', 'Göktürk', '(999) 999-9999', 'Ankara', 'Yenimahalle', '12. Sınıf');
+INSERT INTO students (id, name, surname, phone, city, district, description) VALUES ('098a7d20-f5e1-4e68-b115-647c8c1f8b56', 'Hasan', 'Şen', '(999) 999-9999', 'Ankara', 'Yenimahalle', '12. Sınıf');
+
+INSERT INTO files (id, studentId, file) VALUES ('992e0940-fc00-4a0a-a52a-74c1eab396e0', '2abb5edc-5dae-47e0-b258-b1ff8a2476fb', 'SGVsbG8gd29ybGQ=');
+INSERT INTO files (id, studentId, file) VALUES ('319c0d8b-b39b-4e1b-b2ba-78ce59510a58', '1a89a793-6611-4d45-a2a9-a7fc9b7fd002', 'SGVsbG8gd29ybGQ=');
